@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "email": "igor@email.com",
+      "password": "$2a$10$szqFICS3WAJuTfwrPpQY3uisdTq/tVZOw8gxMmPUCTMh0zPX1DW6q",
+      "nome": "Igor",
+      "id": 1
+    },
+    {
+      "email": "fernanda@email.com",
+      "password": "$2a$10$y1q94wwEwcSDvW.nvH9pweVJd6HH3quqwQxeqNQTlZGf7s9mzpdOC",
+      "nome": "Fernanda",
+      "id": 2
+    }
+  ],
+  "computadores": [
+    {
+      "id": 1,
+      "imagem": "/assets/img/Galeria Computador Desktop.png",
+      "descricao": "LOREM IPSUM NEC NISI PELLENTESQUE ORNARE NETUS",
+      "preco": "R$ 3000,00"
+    },
+    {
+      "id": 2,
+      "imagem": "/assets/img/Galeria Computador Desktop.png",
+      "descricao": "LOREM IPSUM NEC NISI PELLENTESQUE ORNARE NETUS",
+      "preco": "R$ 2000,00"
+    },
+    {
+      "id": 3,
+      "imagem": "/assets/img/Galeria Computador Desktop.png",
+      "descricao": "LOREM IPSUM NEC NISI PELLENTESQUE ORNARE NETUS",
+      "preco": "R$ 4000,00"
+    }
+  ],
+  "consoles": [
+    {
+      "id": 1,
+      "imagem": "/assets/img/Galeria Console Desktop.png",
+      "descricao": "LOREM IPSUM NEC NISI PELLENTESQUE ORNARE NETUS",
+      "preco": "R$ 3000,00"
+    },
+    {
+      "id": 2,
+      "imagem": "/assets/img/Galeria Console Desktop.png",
+      "descricao": "LOREM IPSUM NEC NISI PELLENTESQUE ORNARE NETUS",
+      "preco": "R$ 2000,00"
+    },
+    {
+      "id": 3,
+      "imagem": "/assets/img/Galeria Console Desktop.png",
+      "descricao": "LOREM IPSUM NEC NISI PELLENTESQUE ORNARE NETUS",
+      "preco": "R$ 3000,00"
+    }
+  ],
+  "celulares": [
+    {
+      "id": 1,
+      "imagem": "/assets/img/Galeria Celular Desktop.png",
+      "descricao": "LOREM IPSUM NEC NISI PELLENTESQUE ORNARE NETUS",
+      "preco": "R$ 3000,00"
+    },
+    {
+      "id": 2,
+      "imagem": "/assets/img/Galeria Celular Desktop.png",
+      "descricao": "LOREM IPSUM NEC NISI PELLENTESQUE ORNARE NETUS",
+      "preco": "R$ 2000,00"
+    },
+    {
+      "id": 3,
+      "imagem": "/assets/img/Galeria Celular Desktop.png",
+      "descricao": "LOREM IPSUM NEC NISI PELLENTESQUE ORNARE NETUS",
+      "preço": "R$ 3000,00"
+    }
+  ],
+  "jogos": [
+    {
+      "id": 1,
+      "imagem": "/assets/img/Galeria Jogo desktop.png",
+      "descricao": "LOREM IPSUM NEC NISI PELLENTESQUE ORNARE NETUS",
+      "preco": "R$ 3000,00"
+    },
+    {
+      "id": 2,
+      "imagem": "/assets/img/Galeria Jogo desktop.png",
+      "descricao": "LOREM IPSUM NEC NISI PELLENTESQUE ORNARE NETUS",
+      "preco": "R$ 2000,00"
+    },
+    {
+      "id": 3,
+      "imagem": "/assets/img/Galeria Jogo desktop.png",
+      "descricao": "LOREM IPSUM NEC NISI PELLENTESQUE ORNARE NETUS",
+      "preco": "R$ 3000,00"
+    }
+  ]
+}
